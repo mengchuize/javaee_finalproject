@@ -14,5 +14,9 @@
     <select id="selectAllHomework" resultMap="HomeworkBaseMap">
         SELECT * FROM homework
     </select>
-
+    <insert id="addHomework" parameterType="example.model.Homework" >
+        INSERT INTO homework (hname,hbegintime,hendtime,tname,hsubmitnum)
+         VALUES
+         (${homework.hname},${homework.hbegintime},${homework.hendtime},${homework.tname},${homework.hsubmitnum})
+    </insert>
 </mapper>

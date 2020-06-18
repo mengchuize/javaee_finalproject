@@ -38,18 +38,16 @@
                             <td>课程名称</td>
                             <td>提交内容</td>
                         </tr>
-                        <%
-                            SubmitD dao=new SubmitD();
-                            List<Submit> list =dao.search(request.getParameter("hname"));
-                            for(Submit tl:list)
-                            {%>
-                        <tr>
-                            <td><%=tl.getSname() %></td>
-                            <td><%=tl.getHname() %></td>
-                            <td><%=tl.getShis()%>></td>
-                        </tr>
-                        <%}
-                        %>
+                        <c:if test="${!empty submits}" >
+                            <c:forEach var="submit" items="${submits}">
+                                <tr>
+                                    <td>${submit.hname}</td>
+                                    <td>${submit.sname}</td>
+                                    <td>${submit.shis}</td>
+                                    <td><button class="btn btn-danger" onclick="deletes((this).parent('tr').index)">删除</button>></td>
+                                </tr>
+                            </c:forEach>
+                        </c:if>
                     </table>
 
                 </div>

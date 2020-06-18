@@ -13,4 +13,14 @@
         SELECT * FROM submit
     </select>
 
+    <select id="selectSubmitByHname" parameterType="java.lang.String" resultMap="SubmitBaseMap">
+        SELECT * FROM submit
+        WHERE hname = #{hname}
+    </select>
+
+    <insert id="addSubmit" parameterType="example.model.Submit" >
+        INSERT INTO submit (sname,hname,shis)
+         VALUES
+         (${submit.sname},${submit.hbegintime},${submit.shis})
+    </insert>
 </mapper>

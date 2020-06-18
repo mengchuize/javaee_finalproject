@@ -10,4 +10,5 @@ public interface StudentService {
 
     Student getStudentByUsername(String studentname);
     List<Student> getAllStudent();
+    void addStudent(String username,String password);
 }

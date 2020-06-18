@@ -13,4 +13,5 @@ public interface StudentDao {
 
     Student selectStudentByUsername(@Param("studentUsername") String studentUsername);
     List<Student> selectAllStudent();
+    void addStudent(@Param("studentUsername") String studentUsername,@Param("studentPassword") String studentPassword);
 }

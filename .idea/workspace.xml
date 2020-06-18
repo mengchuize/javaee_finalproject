@@ -6,7 +6,79 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1df035e1-5dc4-4bf1-820a-1db20f7dba85" name="Default Changelist" comment="" />
+    <list default="true" id="1df035e1-5dc4-4bf1-820a-1db20f7dba85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/image/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/controller/TeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/controller/TeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/StudentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapping/StudentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/controller/HomeworkController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/controller/HomeworkController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/controller/SubmitController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/controller/SubmitController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/controller/TeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/controller/TeacherController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/dao/HomeworkDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/dao/HomeworkDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/dao/StudentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/dao/StudentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/dao/SubmitDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/dao/SubmitDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/model/Homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/model/Homework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/model/Submit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/model/Submit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/service/HomeworkService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/service/HomeworkService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/service/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/service/SubmitService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/service/SubmitService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/service/impl/HomeworkServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/service/impl/HomeworkServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/service/impl/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/service/impl/StudentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/service/impl/SubmitServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/service/impl/SubmitServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapping/HomeworkMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapping/HomeworkMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapping/StudentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapping/StudentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapping/SubmitMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapping/SubmitMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapping/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/controller/HomeworkController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/controller/HomeworkController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/controller/SubmitController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/controller/SubmitController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/controller/TeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/controller/TeacherController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/dao/HomeworkDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/dao/HomeworkDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/dao/StudentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/dao/StudentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/dao/SubmitDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/dao/SubmitDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/model/Homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/model/Homework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/model/Submit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/model/Submit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/HomeworkService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/HomeworkService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/SubmitService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/SubmitService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/impl/HomeworkServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/impl/HomeworkServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/impl/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/impl/StudentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/impl/SubmitServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/impl/SubmitServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/example/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/mapping/HomeworkMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/mapping/HomeworkMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/mapping/StudentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/mapping/StudentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/mapping/SubmitMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/mapping/SubmitMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/mapping/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/jsp/showUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/statics/addhomework.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/statics/addhomework.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/statics/addstudent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/statics/addstudent.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/statics/submit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/statics/submit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/statics/submited.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm-1.0-SNAPSHOT/statics/submited.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +89,12 @@
       <list>
         <option value="Class" />
         <option value="Interface" />
+        <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -37,7 +113,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mapping" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/statics/image" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -48,12 +124,13 @@
       <recent name="E:\IDEAProject\web-ssm\src\main\webapp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example.controller" />
       <recent name="example.service.impl" />
       <recent name="example.service" />
       <recent name="example.dao" />
-      <recent name="example.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAProject\web-ssm\src\main\webapp\statics\image" />
       <recent name="E:\IDEAProject\web-ssm\src\main\resources\mapping" />
       <recent name="E:\IDEAProject\web-ssm\src\main\java\example\model" />
       <recent name="E:\IDEAProject\web-ssm\src\main\java\example\controller" />
@@ -144,11 +221,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -176,6 +248,18 @@
       <workItem from="1590366812415" duration="105000" />
       <workItem from="1590367351867" duration="526000" />
       <workItem from="1590368141410" duration="11588000" />
+      <workItem from="1590380556824" duration="305000" />
+      <workItem from="1592302498414" duration="1256000" />
+      <workItem from="1592311731553" duration="1586000" />
+      <workItem from="1592313751866" duration="1088000" />
+      <workItem from="1592321580660" duration="562000" />
+      <workItem from="1592355252123" duration="1724000" />
+      <workItem from="1592357338083" duration="1436000" />
+      <workItem from="1592359254692" duration="1787000" />
+      <workItem from="1592361427477" duration="1695000" />
+      <workItem from="1592363348442" duration="1862000" />
+      <workItem from="1592367837500" duration="1620000" />
+      <workItem from="1592369665711" duration="1041000" />
     </task>
     <servers />
   </component>
@@ -187,10 +271,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590312400917" />
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1590379560150">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1592364362386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590379560150" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592364362386" />
     <state x="391" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590317135712">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -203,62 +287,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590379723386" />
-    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.0.bottom" timestamp="1592369110434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592369110434" />
+    <state width="566" height="38" key="GridCell.Tab.0.center" timestamp="1592369110434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592369110434" />
+    <state width="566" height="38" key="GridCell.Tab.0.left" timestamp="1592369110434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592369110434" />
+    <state width="566" height="38" key="GridCell.Tab.0.right" timestamp="1592369110434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592369110434" />
+    <state width="566" height="38" key="GridCell.Tab.1.bottom" timestamp="1592369110234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592369110234" />
+    <state width="566" height="38" key="GridCell.Tab.1.center" timestamp="1592369110233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592369110233" />
+    <state width="566" height="38" key="GridCell.Tab.1.left" timestamp="1592369110233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592369110233" />
+    <state width="566" height="38" key="GridCell.Tab.1.right" timestamp="1592369110234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592369110234" />
+    <state width="566" height="38" key="GridCell.Tab.2.bottom" timestamp="1592369110234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.2.center" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592369110234" />
+    <state width="566" height="38" key="GridCell.Tab.2.center" timestamp="1592369110234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.2.left" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1592369110234" />
+    <state width="566" height="38" key="GridCell.Tab.2.left" timestamp="1592369110234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
-    <state width="1024" height="210" key="GridCell.Tab.2.right" timestamp="1590379760233">
+    <state width="566" height="38" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1592369110234" />
+    <state width="566" height="38" key="GridCell.Tab.2.right" timestamp="1592369110234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1590379760233" />
+    <state width="566" height="38" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1592369110234" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1590312937547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590312937547" />
-    <state x="442" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1590368140709">
+    <state x="442" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1592369750332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="442" y="227" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590368140709" />
+    <state x="442" y="227" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592369750332" />
+    <state x="356" y="106" key="new project wizard" timestamp="1590380857381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="106" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590380857381" />
     <state x="449" y="104" key="spring file set editor" timestamp="1590316344976">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

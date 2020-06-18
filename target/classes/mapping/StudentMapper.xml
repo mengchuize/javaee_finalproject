@@ -17,4 +17,10 @@
     <select id="selectAllStudent" resultMap="StudentBaseMap">
         SELECT * FROM student
     </select>
+
+    <insert id="addStudent" parameterType="example.model.Student" >
+        INSERT INTO student (sname,susername,spassword)
+         VALUES
+         (#{studentUsername},#{studentUsername},#{studentPaaword})
+    </insert>
 </mapper>

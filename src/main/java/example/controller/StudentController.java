@@ -42,7 +42,7 @@ public class StudentController {
             List<Homework> homeworks=homeworkService.getAllHomework();
             model.addAttribute("homeworks",homeworks);
 
-            return "/student.jsp";
+            return "/studenthome.jsp";
 
         }else{
             System.out.println("no");

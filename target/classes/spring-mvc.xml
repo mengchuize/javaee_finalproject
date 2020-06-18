@@ -50,8 +50,8 @@
     </bean>
     <!-- 开启注解 -->
     <mvc:annotation-driven />
-    <mvc:resources mapping="/css/**" location="statics/css/" />
-    <mvc:resources mapping="/js/**" location="statics/js/" />
-    <mvc:resources mapping="/img/**" location="statics/image/" />
+    <mvc:resources mapping="/css/**" location="/statics/" />
+    <mvc:resources mapping="/js/**" location="/statics/" />
+    <mvc:resources mapping="/img/**" location="/statics/image" />
 
 </beans>

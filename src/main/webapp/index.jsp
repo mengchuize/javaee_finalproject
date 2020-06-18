@@ -30,7 +30,12 @@
 			<div class="card-body">
 				<h2 class="card-title">欢迎光临</h2>
 				<p>欢迎进入登录页面</p>
-				<div class="btn-wrap"><a class="btn btn-lg btn-register js-btn" data-target="register">教师</a><a class="btn btn-lg btn-login js-btn" data-target="login">学生</a></div>
+				<div class="btn-wrap">
+					<a class="btn btn-lg btn-register js-btn" data-target="register">教师</a>
+					<a class="btn btn-lg btn-register js-btn" data-target="login">学生</a>
+					<br/>
+					<a class="btn btn-lg btn-login js-btn" data-target="registers">注册</a>
+				</div>
 			</div>
 		</div>
 		
@@ -63,6 +68,22 @@
 						<input class="form-control" name="spassword" type="password" placeholder="密码" required="required"/>
 					</div>
 					<button class="btn btn-lg" >登录</button>
+				</form>
+			</div>
+			<button class="btn btn-back js-btn" data-target="welcome"><i class="fas fa-angle-left"></i></button>
+		</div>s
+		<div class="card border-0 shadow card--register" id="registers">
+			<div class="card-body">
+				<h2 class="card-title">注  册</h2>
+				<form  action="${pageContext.request.contextPath}/register/register" method="post" >
+					<div class="form-group">
+						<input class="form-control" type="text" placeholder="名称" required="required" name="rusername"/>
+					</div>
+					<div class="form-group">
+						<input class="form-control" type="password" placeholder="密码" required="required" name="rpassword"/>
+					</div>
+					<input type="submit" class="btn btn-lg" value="注册">
+
 				</form>
 			</div>
 			<button class="btn btn-back js-btn" data-target="welcome"><i class="fas fa-angle-left"></i></button>

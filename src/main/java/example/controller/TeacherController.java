@@ -48,7 +48,7 @@ public class TeacherController {
             List<Student> students=studentService.getAllStudent();
             model.addAttribute("students",students);
 
-            return "/teacher.jsp";
+            return "/teacherhome.jsp";
 
         }else{
             System.out.println("no");
